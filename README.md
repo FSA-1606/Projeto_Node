@@ -95,5 +95,4 @@ A aplicação React será executada em: [http://localhost:3000](http://localhost
 
 ---
 
-Se quiser, posso gerar um diagrama do fluxo da aplicação ou um mini tutorial em vídeo/imagem para usuários finais ou devs. Deseja isso também?
 
